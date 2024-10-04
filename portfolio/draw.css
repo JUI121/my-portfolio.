@@ -1,0 +1,11 @@
+.draw{
+    font-family:'Times New Roman', Times, serif;
+    color: #fffafa;
+     font-weight: 200;
+    font-size: 120%;
+    top:30%;
+    left:23%;
+    right: 20%;
+position: absolute;
+text-align: center;
+}

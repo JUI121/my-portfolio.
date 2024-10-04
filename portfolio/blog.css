@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+#b1
+{
+    position: absolute;
+    left: 38%;
+    right: 20%;
+    background-color: black;
+    top:40%
+}
+#b2
+
+{
+    position: absolute;
+    left: 38%;
+    right: 20%;
+    background-color: black;
+    top:130%
+}
+#b3{
+    position: absolute;
+    left: 38%;
+    right: 20%;
+    background-color: black;
+    top: 220%;
+}.bl{
+    position: absolute;
+    left: 39%;
+    right: 30%;
+    color: white;
+    top: 10%;
+    font-size: 600%;
+    font-family:'Times New Roman', Times, serif;
+}

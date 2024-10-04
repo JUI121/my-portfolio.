@@ -1,0 +1,31 @@
+body{ 
+    background-image:url(img/MY\ FRIENDS\ IMG\ 1.png) ;
+}
+.S{
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 800%;
+    left: 28%;
+    right: 15%;
+    position: absolute;
+    color:#fffdfe;
+    top:5%;
+}
+.F{ 
+    font-family:'Times New Roman', Times, serif;
+    font-size: 400%;
+    left: 35%;
+    right: 15%;
+    position: absolute;
+    color: #fffdfe;
+    top:30%;
+}
+.j{ 
+    font-family:'Times New Roman', Times, seriff;
+    font-size:150%;
+    left: 10%;
+    right: 10%;
+    position: absolute;
+    color: #fffdfe;
+    top:150%;
+}

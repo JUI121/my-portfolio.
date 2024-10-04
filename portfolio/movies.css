@@ -1,0 +1,12 @@
+.MOVIES{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1000%;
+    left: 25%;
+    right:35%;
+    position: absolute;
+    color: #f7f4f4;
+    top:1%;
+}
+body{
+    background-color: black;
+}

@@ -1,0 +1,54 @@
+
+.me{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff7f7;
+    font-weight: 200;
+    font-size: 120%;
+    top: 40%;
+    left: 5%;
+position: absolute;
+right: 50%
+
+}
+.me1
+{
+    font-family:'Times New Roman', Times, serif;
+    color: #fffafa;
+     font-weight: 200;
+    font-size: 120%;
+    top:70%;
+    left: 5%;
+    right: 50%;
+position: absolute;
+
+}
+.link{
+    font-family:'Times New Roman', Times, serif;
+    color: #fffafa;
+     font-weight: 200;
+    font-size: 200%;
+    top:200%;
+    left: 10%;
+    right: 50%;
+position: absolute;
+}
+.mail{
+    font-family:'Times New Roman', Times, serif;
+    color: #fffafa;
+     font-weight: 200;
+    font-size: 200%;
+    top:200%;
+    left: 35%;
+    right: 50%;
+position: absolute;
+}
+.insta{
+    font-family:'Times New Roman', Times, serif;
+    color: #fffafa;
+     font-weight: 200;
+    font-size: 200%;
+    top:200%;
+    left: 78%;
+    right: 50%;
+position: absolute;
+}
